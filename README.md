@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LourenceQ
+- 👋 Hi, I’m @Lourence
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning c#, Asp.Net and Angular.
 - 💞️ I’m looking to collaborate on developing web based solutions.
